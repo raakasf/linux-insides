@@ -1,5 +1,6 @@
-Thank you to all contributors:
-------------------------------
+# Contributors
+
+Special thanks to all the people who helped to develop this project:
 
 * [Akash Shende](https://github.com/akash0x53)
 * [Jakub Kramarz](https://github.com/jkramarz)
@@ -134,3 +135,8 @@ Thank you to all contributors:
 * [Yuxin Wu](https://github.com/chaffz)
 * [Biao Ding](https://github.com/SmallPond)
 * [Arfy slowy](https://github.com/slowy07)
+* [Junbo Jiang](https://github.com/junbo42)
+* [Dexter Plameras](https://github.com/dexterp)
+* [Jun Duan](https://github.com/waltforme)
+* [Guochao Xie](https://github.com/XieGuochao)
+* [Davide Benini](https://github.com/beninidavide/)
